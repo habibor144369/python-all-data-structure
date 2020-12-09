@@ -8,6 +8,6 @@ while True:
 while True:
     marks = [67, 56, 89, 96, 47, 97, 75, 87, 86, 80]
     roll = int(input('please enter your roll number : '))
-    print('your marks is', marks[(roll) -1])
+    print('your marks is', marks[roll -1])
 
 
